@@ -50,6 +50,7 @@ Annual-Sales-Dashboard/
 ├── SampleData.xlsx              # Sample dataset used (optional)
 ├── README.md                    # Project documentation
 📸 Dashboard Preview
+https://github.com/shrinkhala23/Annual-sales-powerbi-dashboard/blob/main/snapshot%20of%20dashboard.png
 
 🚀 How to Use
 Download the .pbix file
